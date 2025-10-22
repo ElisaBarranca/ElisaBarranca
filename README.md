@@ -13,5 +13,3 @@ As a ✨Genesys Specialist✨, my responsibilities are:
 - :left_speech_bubble:Teaching agents how to use Genesys features (e.g., Copilot tool, canned responses, feedback interactions, etc).
 
 I'm happy to be able to work with you!
-
-📫 I can be reached through Teams, or at the CX Office at the BSC building.
